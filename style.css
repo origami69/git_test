@@ -1,0 +1,166 @@
+
+body {
+    width: 1350px;
+}
+.header {
+display: flex;
+background-color: #1f2937;
+color: white;
+height: 450px;
+}
+.gay {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 100px;
+}
+.logo {
+    width: 75px;
+    height: 50px;
+    margin-bottom: 100px;
+}
+.HeadLinks {
+    display: flex;
+    justify-content: space-around;
+    justify-content: flex-end;
+    align-items: top;
+    flex-direction: row;
+    padding-bottom: 100px;
+}
+.leftb {
+display: flex;
+flex-direction: column;
+justify-content: center;
+margin-left: 100px;
+margin-bottom: 150px;
+margin-right: 50px;
+}
+.linka {
+    text-decoration: none;
+    color: white;
+    margin-left: 50px;
+    align-items: top;
+}
+.name {
+    display: flex;
+    font-weight: bold;
+    font-size: 30px;
+}
+.subtext {
+    display: flex;
+    width: 400px;
+    margin-top: 10px;
+}
+.hbutton {
+    display: flex;
+    background-color: #3b82f6;
+    border: none;
+    width: 100px;
+    border-radius: 15px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+    margin-top: 15px;
+}
+.image2 {
+    display: flex;
+    width: 500px;
+    height: 250px;
+    padding-bottom: 50px;
+}
+.image1 {
+    display: flex;
+    width: 200px;
+    height: auto;
+    justify-content: space-between;
+}
+.ctext {
+    display: flex;
+    justify-content: space-evenly;
+}
+.text {
+    display: flex;
+    width: 150px;
+}
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 420px;
+}
+.quote {
+    display: flex;
+    background-color: #e5e7eb;
+    height: 150px;
+    justify-content: center;
+}
+.cquote {
+    display: flex;
+    width: 600px;
+}
+.qcredit {
+    display: flex;
+    font-weight: bold;
+    font-size: larger;
+}
+.footer {
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    align-items: center;
+}
+.god {
+    display: flex;
+    background-color: #3b82f6;
+    color: white;
+    height: 100px;
+    width: 700px;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.ftext {
+    display: flex;
+    font-size: larger;
+    font-weight: bold;
+}
+.subfooter {
+    display: flex;
+}
+.combine {
+    display: flex;
+    flex-direction: column;
+    width: 900px;
+}
+.cimage{
+    display: flex;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    justify-content: space-evenly;
+}
+.jk{
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+    font-weight: bold;
+}
+.fbutton {
+    display: flex;
+    border: white;
+    background-color: #3b82f6;
+    color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+}
+.homo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.bruh {
+    display: flex;
+    flex-direction: column;
+}
